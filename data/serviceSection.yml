@@ -1,0 +1,37 @@
+---
+enable: true
+topTitle: Working Area
+title: >
+  ## Services
+
+  I am available at $30 an hour to offer the following services:
+service:
+  - content: >
+      #### Data Visualisation
+
+      Beautiful graphs from raw data
+      
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Data Analysis 
+      
+      Get more out of your data by spotting trends to make business decisions
+
+    image: images/service/web.svg
+  - content: >
+      #### Reporting 
+
+      Summarise key findings in a beautiful publication quality PDF document.
+      
+    image: images/service/creative.svg
+  - content: >
+      #### Shiny dashboards
+
+      Get real time, live and interactive analysis of your data anytime, anywhere.
+    
+    image: images/service/branding.svg
+  - content: >
+      #### R Consulting
+
+      Have all your R work needs done by me, simply send data and goals, receive R code.
+    image: images/service/ui-ux.svg

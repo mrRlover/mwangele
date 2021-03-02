@@ -1,0 +1,14 @@
+---
+enable: true
+topTitle: Hello, I am Mwangele Kaluba
+content: >
+  # I am here to give your business key insights with data visualisation
+
+  I offer data visualisation services for $30 an hour. The graphs I create reveal trends
+  and important insights that help in business decision making.  
+
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/pricerange-2020.png
+videoThumb: images/hero/waterfall.png
+videoURL: assets/video.mp4

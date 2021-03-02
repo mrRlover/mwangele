@@ -1,0 +1,48 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Expertises
+
+  I made the switch from Excel to R for my data analysis and I have not looked back since. Using R has allowed me to produce analysis faster while massively increasing quality. I know offer my skills in R to create stunning graphs from your raw data. 
+
+
+  
+tab1Name: Education
+tab2Name: Experiences
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      #### Master of Commerce (Distinction)
+
+      Awarded with distinction from the University of the Witwatersrand. Majored in Corporate Finance and Investments.
+    time: 2019-2020
+  - content: >
+      #### Bachelor of Commerce with Honours
+
+      Awarded by the University of the Witwatersrand in Johannesburg, South Africa. Majored in Corporate Finance and Investments.
+    time: 2018
+  - content: >
+      #### Bachelor of Commerce 
+
+      Awarded by the University of the Witwatersrand in Johannesburg, South Africa. Majored in Corporate Finance and Investments
+    time: 2014-2017
+
+experience:
+  - content: >
+      #### Challenges Zambia 
+
+      Junior Associate
+    time: 2021-Present
+  - content: >
+      #### IABC Associates 
+
+      Data Analyst
+    time: 2020
+  - content: >
+      #### Amano Capital 
+
+      Investment Associate
+    time: 2020

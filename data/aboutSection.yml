@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About Mwangele
+
+  I am passionate about using graphs to explain neatly and easily the story that
+  data tells us.
+content: >
+  ### I build beautiful graphs
+  
+  I create publication quality graphs that offer stunning visuals and easy to understand analysis. 
+  
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: assets/Mwangele Kaluba - CV.pdf
+image: images/about/usdzmw.png
