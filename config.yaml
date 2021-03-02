@@ -1,5 +1,5 @@
-baseURL: https://mrRlover.github.io/mwangele
-publishDir = "docs"
+baseURL: https://mrrlover.github.io/mwangele/
+publishDir: "docs"
 languageCode: en-us
 paginate: 6
 theme: portio-hugo
